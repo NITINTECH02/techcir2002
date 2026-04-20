@@ -122,11 +122,11 @@ console.log("Building power solutions, one circuit at a time ⚡");
 
 <div align="center">
 
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techcir2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NITINTECH02&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techcir2002&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NITINTECH02&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techcir2002&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NITINTECH02&theme=github-dark-blue&hide_border=true)
 
 </div>
 
